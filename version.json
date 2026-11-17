@@ -1,11 +1,10 @@
 {
- "version": "1.0.0",
- "file": "OB_Setup_1_0_0.exe",
- "sha256": "2c9719520c97b3f659c42d555aa0a45c18b2a371a2babb8519494d3da064a8f6",
+ "version": "1.0.1",
+ "file": "OB_Setup_1_0_1.exe",
+ "sha256": "d821714fb21ae896af1dbcc89bd27fc2d54b03d1ce605c4cc2926f855d0d5a3b",
  "changelog": {
-  "ru": "— Новое приложение OB: вкладки «Аудит» и «Загрузки» (transport-plan, окно 6-18/18-6, поиск по рефу, фильтр страны)\n— Цветной лист REPORT по шаблону склада\n— Chrome скрытый, автовход с перелогином\n— Перенос данных из старой установки IB/OB",
-  "en": "— New OB app: 'Audit' and 'Loads' tabs (transport plan, 6-18/18-6 window, ref search, country filter)\n— Colored REPORT sheet per warehouse template\n— Hidden Chrome with auto re-login\n— Data migration from the old IB/OB install",
-  "pl": "— Nowa aplikacja OB: zakładki 'Audyt' i 'Załadunki' (plan transportowy, okno 6-18/18-6, szukanie po ref, filtr kraju)\n— Kolorowy arkusz REPORT według szablonu\n— Ukryty Chrome z auto-przelogowaniem\n— Migracja danych ze starej instalacji IB/OB"
- },
- "url": "https://github.com/mwv97f4mbb-star/tms-ob-updates/releases/download/v1.0.0/OB_Setup_1_0_0.exe"
+  "ru": "— Первый запуск Chrome теперь ВИДИМЫЙ при новом профиле (первичная настройка: поисковик и т.п.), дальше — скрытый\n— Общие улучшения стабильности",
+  "en": "— First Chrome launch is now VISIBLE for a fresh profile (first-run setup: search engine etc.), hidden afterwards\n— General stability improvements",
+  "pl": "— Pierwszy start Chrome jest teraz WIDOCZNY dla nowego profilu (konfiguracja: wyszukiwarka itp.), później ukryty\n— Ogólne ulepszenia stabilności"
+ }
 }
