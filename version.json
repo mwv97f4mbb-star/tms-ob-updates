@@ -6,5 +6,6 @@
   "ru": "— Первый запуск Chrome теперь ВИДИМЫЙ при новом профиле (первичная настройка: поисковик и т.п.), дальше — скрытый\n— Общие улучшения стабильности",
   "en": "— First Chrome launch is now VISIBLE for a fresh profile (first-run setup: search engine etc.), hidden afterwards\n— General stability improvements",
   "pl": "— Pierwszy start Chrome jest teraz WIDOCZNY dla nowego profilu (konfiguracja: wyszukiwarka itp.), później ukryty\n— Ogólne ulepszenia stabilności"
- }
+ },
+ "url": "https://github.com/mwv97f4mbb-star/tms-ob-updates/releases/download/v1.0.2/OB_Setup_1_0_2.exe"
 }
