@@ -1,11 +1,10 @@
 {
- "version": "1.0.4",
- "file": "OB_Setup_1_0_4.exe",
- "sha256": "24209b1c9a8d00f7f26da9d5159d6067f835040848d05571de6fbb46cb8d3b6d",
+ "version": "1.0.5",
+ "file": "OB_Setup_1_0_5.exe",
+ "sha256": "8f11391ecddf4113724853e44e1edfde658b5a6d49742c11754e1c93ddec566e",
  "changelog": {
   "ru": "— Первый запуск Chrome теперь ВИДИМЫЙ при новом профиле (первичная настройка: поисковик и т.п.), дальше — скрытый\n— Общие улучшения стабильности",
   "en": "— First Chrome launch is now VISIBLE for a fresh profile (first-run setup: search engine etc.), hidden afterwards\n— General stability improvements",
   "pl": "— Pierwszy start Chrome jest teraz WIDOCZNY dla nowego profilu (konfiguracja: wyszukiwarka itp.), później ukryty\n— Ogólne ulepszenia stabilności"
- },
- "url": "https://github.com/mwv97f4mbb-star/tms-ob-updates/releases/download/v1.0.4/OB_Setup_1_0_4.exe"
+ }
 }
